@@ -1,4 +1,5 @@
-Bug report for --incompatible_use_specific_tool_files
+Bug report for `--incompatible_use_specific_tool_files`.
+Tested with commit `2b3c879a6507f17030fdf9fba2a1704cb09eb5f3` on OSX 10.4.2
 
 Results of `bazel build :lib --incompatible_use_specific_tool_files`
 
